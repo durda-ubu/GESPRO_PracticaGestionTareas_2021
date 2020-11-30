@@ -41,3 +41,5 @@ Add new tests to utility classes
 Document Diseno Arquitectonico 
 
 Add references 
+
+Improve Diseno Arquitectonico documentation 
