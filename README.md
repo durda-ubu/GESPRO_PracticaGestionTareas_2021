@@ -5,9 +5,7 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 **Incluid debajo el nombre de los miembros del grupo:**
 * [Guillermo Fernández Golpe](https://github.com/Guillefer10)
+* [Alejandro Fernández Berrio](https://github.com/afb1002)
 
 Add new tests to utility classes
 
-Document sprint 15
-
-Convert to latex points 1 and 2
