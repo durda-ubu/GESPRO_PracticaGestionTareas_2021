@@ -32,3 +32,5 @@ Fix images position
 Document Diseno de datos 
 
 Implement generate sample data
+
+Fix delete old current weather 
