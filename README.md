@@ -57,3 +57,5 @@ Fix weather data summary bug
 Fix count down
 
 Improve docs
+
+Finish report
