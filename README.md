@@ -51,3 +51,5 @@ Document Diseno de Interfaces
 Minor fix 
 
 Enter coordinates manually 
+
+Fix weather data summary bug
