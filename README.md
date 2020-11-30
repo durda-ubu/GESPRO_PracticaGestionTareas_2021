@@ -63,3 +63,5 @@ Finish report
 Add javadoc
 
 Document Manual Programador
+
+Convert annex C to latex
