@@ -61,3 +61,5 @@ Improve docs
 Finish report
 
 Add javadoc
+
+Document Manual Programador
