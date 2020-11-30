@@ -14,3 +14,5 @@ Fix apiary name overlap
 Fix pdf images position
 
 Fix images position
+
+Fix images position
