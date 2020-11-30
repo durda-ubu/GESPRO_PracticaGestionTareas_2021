@@ -47,3 +47,5 @@ Improve Diseno Arquitectonico documentation
 Document Diseno procedimental 
 
 Document Diseno de Interfaces 
+
+Minor fix 
