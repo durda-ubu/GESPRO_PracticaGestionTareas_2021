@@ -12,3 +12,5 @@ Add new tests to utility classes
 Fix apiary name overlap
 
 Fix pdf images position
+
+Fix images position
