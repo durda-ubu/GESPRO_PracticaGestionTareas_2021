@@ -10,3 +10,5 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 Add new tests to utility classes
 
 Fix apiary name overlap
+
+Fix pdf images position
