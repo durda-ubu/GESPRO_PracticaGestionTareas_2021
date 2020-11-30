@@ -3,9 +3,6 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 Para completar la primera práctica obligatoria sobre gestión de tareas en metodología ágil, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
 
-**Incluid debajo el nombre de los miembros del grupo:**
-* [Guillermo Fernández Golpe](https://github.com/Guillefer10)
-* [Alejandro Fernández Berrio](https://github.com/afb1002)
 
 **Incluid debajo las referencias**
 
@@ -36,3 +33,5 @@ Implement generate sample data
 Fix delete old current weather 
 
 Allow multiline notes 
+
+Fix overlap with long weather conditions 
