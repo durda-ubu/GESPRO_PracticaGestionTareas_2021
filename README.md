@@ -39,3 +39,5 @@ Fix overlap with long weather conditions
 Add new tests to utility classes 
 
 Document Diseno Arquitectonico 
+
+Add references 
