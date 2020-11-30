@@ -9,3 +9,5 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 Add new tests to utility classes
 
+@davidmigloz
+Convert to latex points 1 and 2 #124
