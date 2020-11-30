@@ -53,3 +53,5 @@ Minor fix
 Enter coordinates manually 
 
 Fix weather data summary bug
+
+Fix count down
